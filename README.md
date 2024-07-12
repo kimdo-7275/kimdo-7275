@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+<!--
 ![header](https://capsule-render.vercel.app/api?type=Rect&&height=300&section=header&text=KimDo's%20GitHubs&fontSize=90)
-
+-->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdo-7275&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdo-7275&layout=compact)
