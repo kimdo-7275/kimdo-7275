@@ -28,6 +28,7 @@
 
 ## 🪪 Certificates
 - SQLD
+- TOEIC Speaking : Advanced Low(160)
 
 
 <!--
