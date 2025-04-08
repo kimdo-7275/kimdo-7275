@@ -28,6 +28,7 @@
 
 ## 🪪 Certificates
 - SQLD
+- ADsP
 - TOEIC Speaking : Advanced Low(160)
 
 
